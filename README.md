@@ -13,5 +13,5 @@ A rough representation of the repository is listed below.
 Go において、Windows 上で動く GUI アプリケーションを実装するためのライブラリ「WALK」を試しに使う
 * [DA1](https://github.com/yudejp/practice/tree/master/DA1)  
 「データ構造とアルゴリズムⅠ」 講義中に登場したアルゴリズムを自分で実装してみる
-* [weird](https://github.com/yudejp/practice/tree/master/weird)
+* [weird](https://github.com/yudejp/practice/tree/master/weird)  
 完全におふざけによるプログラム
