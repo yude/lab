@@ -2,7 +2,9 @@
 
 ## 概要 / Description
 様々な言語を触ってみたり、ライブラリを試験的に使用してみたりするリポジトリです。  
-This repository contains what I did during experiment of languages, libraries, and so on.
+This repository contains what I did during experiment of languages, libraries, and so on.  
+動作しないコードを含んでいます。ご承知ください。  
+This repository contains non-working codes. Please be careful about this.  
 
 ## 内容 / Contents
 以下のようなコンテンツが存在します。  
